@@ -1,0 +1,45 @@
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/bin/Debug/net7.0/upg2
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/bin/Debug/net7.0/upg2.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/bin/Debug/net7.0/upg2.runtimeconfig.json
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/bin/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/bin/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/refint/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/upg2.genruntimeconfig.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/upg2/obj/Debug/net7.0/ref/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/bin/Debug/net7.0/upg2
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/bin/Debug/net7.0/upg2.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/bin/Debug/net7.0/upg2.runtimeconfig.json
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/bin/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/bin/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/refint/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/upg2.genruntimeconfig.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Med alla forloops upg2/upg2/obj/Debug/net7.0/ref/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/bin/Debug/net7.0/upg2
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/bin/Debug/net7.0/upg2.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/bin/Debug/net7.0/upg2.runtimeconfig.json
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/bin/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/bin/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/refint/upg2.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/upg2.genruntimeconfig.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/Inlämnat/Uppgift_2_OOP/upg2/obj/Debug/net7.0/ref/upg2.dll
